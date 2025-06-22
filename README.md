@@ -44,6 +44,7 @@ streamlit run apps.py
 ```
 
 ## Business Dashboard
+![Dashboard Image](ardianbahri40-dashboard.png)
 Sebuah dashboard business intelligence (BI) telah dikembangkan menggunakan **Metabase** untuk memberikan wawasan visual kepada para pemangku kepentingan (manajemen, staf akademik, dll.). Dashboard ini terhubung ke database PostgreSQL yang berisi data prediksi dan analisis.
 
 Fitur utama dari dashboard ini meliputi:
@@ -62,6 +63,7 @@ Password: Ardian404
 ```
 
 ## Menjalankan Sistem Machine Learning
+![Streamlit Image](ardianbahri40-streamlit.png)
 Prototipe sistem prediksi telah dibuat dalam bentuk aplikasi web interaktif menggunakan **Streamlit**. Aplikasi ini memungkinkan pengguna untuk:
 
 -   **Prediksi Individual**: Memasukkan data seorang mahasiswa melalui form dan mendapatkan hasil prediksi risiko *dropout* secara *real-time*.
